@@ -5,7 +5,7 @@
 
 ## Sobre
 <p>
-  Carreira desenvolvida na área de Tecnologia da Informação em mais de 5 anos de experiência profissional, com gerenciamento e desenvolvimento de projetos, implantação e manutenção de sistemas e sites, integrações com API’s externas (Google, AWS, entre outras) e desenvolvimento de aplicativos multiplataformas.
+  Carreira desenvolvida na área de Tecnologia da Informação em mais de 8 anos de experiência profissional, com gerenciamento e desenvolvimento de projetos, implantação e manutenção de sistemas e sites, integrações com API’s externas (Google, AWS, entre outras) e desenvolvimento de aplicativos multiplataformas.
 </p>
 
 ## Habilidades
